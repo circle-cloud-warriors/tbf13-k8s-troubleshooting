@@ -9,4 +9,4 @@
 電子書籍につきましては、技術書典公式オンラインマーケットや Booth にて PDF で入手可能です。
 
 * 技術書典: https://techbookfest.org/product/aQ8jiENKVk0dw4ygMidfTC
-* Booth: http://example.com/2
+* Booth: https://yukirii.booth.pm/items/4157917
